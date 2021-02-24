@@ -1,1 +1,67 @@
-this is a test
+
+
+local directory - files
+
+staging area---->track (add)
+
+local repo(HEAD)----->(commit)
+
+
+
+
+github account
+
+
+----->Remote repository( GitTraining )
+
+
+------>local REPO to remote REPO( PUSH )
+
+------>remote repo to local repo(   PULL  )
+
+
+
+-----------------------------------------------
+
+For connection we have options
+----HTTPS---->use website link directly
+---->SSH---->use secure shell
+
+
+
+
+--------------------------------------------
+
+SSH STEPS:
+(SSH RSA ENCRYPTION)
+
+private and public key pair
+
+1) Generate a key(ssh-keygen)
+2) Start your ssh agent  ( eval $(ssh-agent)  )
+
+2) add private key to agent ( ssh-add )
+
+3) Now use clip or cat command or any other graphical Notepad to copy the public key data
+4) Go to settings in Github. Add key data 
+
+
+
+
+
+       
+ChatApp--------------------------------------------------main    (public)
+
+
+
+----------------------video call--------------------(MAIN PART +   VIDEO CALL CODE)
+
+
+
+------------------------stickers add----------------------(MAIN PART+ STICKERS ADD )
+
+
+
+
+
+
